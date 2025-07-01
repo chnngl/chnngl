@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Chang!
+## 👋 Hi there, I'm Chang!
 
 Welcome to my GitHub! I'm passionate about full-stack development and exploring modern technologies to build impactful applications.
 
