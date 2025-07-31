@@ -1,10 +1,10 @@
 
-## 👋 Hi there, I'm Chang!
+## Hi there, I'm Chang!
 
 Welcome to my GitHub! I'm passionate about full-stack development and exploring modern technologies to build impactful applications.
 
 
-## 🔗 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chnngl/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chnngl430@gmail.com)
