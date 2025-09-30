@@ -3,11 +3,11 @@
 
 Welcome to my GitHub! I'm passionate about full-stack development and applied machine learning, exploring modern technologies to build impactful applications.
 
-## 🌐 Connect with Me  
+## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/chnngl/)  
 - [Email](mailto:chnngl430@gmail.com)  
 
-## 💻 Tech Stack  
+## Tech Stack  
 
 - **Languages:** Java, JavaScript, Python  
 - **Web & Frameworks:** Spring Boot, React, Node.js, Express  
