@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Chang!
 
-Welcome to my GitHub! I’m a software engineer focused on **backend development** (Java/Spring Boot, REST APIs, databases). I also build **full-stack** apps with React/Node and explore **applied machine learning** for NLP projects.
+Welcome to my GitHub! I’m a software engineer focused on backend development (Java/Spring Boot, REST APIs, databases). I also build full-stack apps with React/Node and explore applied machine learning for NLP projects.
 
 
 ## Connect with Me  
