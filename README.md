@@ -10,9 +10,9 @@ My background also includes Python and machine learning, especially sentiment an
 
 ## Tech Stack  
 
-- **Languages:** Typescript, Java, JavaScript, Python 
-- **Backend:** Spring Boot, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Maven, Node.js, Express
-- **Frontend:** React, HTML/CSS, Bootstrap, Tailwind CSS 
+- **Languages:** TypeScript, Java, JavaScript, Python 
+- **Backend:** Spring Boot, Nest.js, Spring MVC, Spring Data JPA, Hibernate, Maven, Node.js, Express
+- **Frontend:** React, Next.js, HTML/CSS, Bootstrap, Tailwind CSS 
 - **Databases:** MySQL, PostgreSQL, MongoDB  
 - **Machine Learning & NLP:** scikit-learn, TensorFlow, PyTorch, Hugging Face
 - **Testing & API:** JUnit, Spring Boot Test, Postman, Swagger/OpenAPI
