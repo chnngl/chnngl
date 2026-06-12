@@ -1,8 +1,6 @@
 
 ## Hi there, I'm Chang!
 
-Hi, I’m Chang 👋
-
 I’m a full-stack software developer working with TypeScript, Next.js, NestJS, React, and Java Spring Boot. I enjoy building practical web applications, backend APIs, authentication flows, and system integrations.
 My background also includes Python and machine learning, especially sentiment analysis, NLP, and model evaluation from my MSc Computer Science dissertation.
 
